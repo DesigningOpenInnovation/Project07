@@ -6,5 +6,5 @@ Team-name: HUMMING
 Topic: Innovational intelligent funny alarm clock 
 
 Contributors:
-Mikael, Lili, Anders, Lu
+Mikael, Li, Anders, Lu
 
