@@ -3,7 +3,7 @@ Project07
 
 Team-name: HUMMING
 
-Topic: New innovational intelligent time saving alarm clock 
+Topic: Innovational intelligent funny alarm clock 
 
 Contributors:
 Mikael, Lili, Anders, Lu
