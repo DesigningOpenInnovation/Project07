@@ -1,7 +1,7 @@
 Project07
 =========
 
-Team-name: HUMMY
+Team-name: HUMMING
 
 Topic: New innovational intelligent time saving alarm clock 
 
