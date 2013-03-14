@@ -5,6 +5,10 @@ Team-name: HUMMING
 
 Topic: Innovational intelligent funny alarm clock 
 
+Product product description:
+
+Create a new intelligent alarm clock that wakes you 
+
 Contributors:
 Mikael, Li, Anders, Lu
 
